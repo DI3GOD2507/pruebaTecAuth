@@ -1,0 +1,16 @@
+C:\Users\DIEGOD\Desktop\pruebaTecAuth\prueba.tec.auth.api\pruebas.tec.auth.infrastructure\bin\Debug\net8.0\pruebas.tec.auth.infrastructure.deps.json
+C:\Users\DIEGOD\Desktop\pruebaTecAuth\prueba.tec.auth.api\pruebas.tec.auth.infrastructure\bin\Debug\net8.0\pruebas.tec.auth.infrastructure.dll
+C:\Users\DIEGOD\Desktop\pruebaTecAuth\prueba.tec.auth.api\pruebas.tec.auth.infrastructure\bin\Debug\net8.0\pruebas.tec.auth.infrastructure.pdb
+C:\Users\DIEGOD\Desktop\pruebaTecAuth\prueba.tec.auth.api\pruebas.tec.auth.infrastructure\bin\Debug\net8.0\prueba.tec.auth.domain.dll
+C:\Users\DIEGOD\Desktop\pruebaTecAuth\prueba.tec.auth.api\pruebas.tec.auth.infrastructure\bin\Debug\net8.0\prueba.tec.auth.domain.pdb
+C:\Users\DIEGOD\Desktop\pruebaTecAuth\prueba.tec.auth.api\pruebas.tec.auth.infrastructure\obj\Debug\net8.0\pruebas.tec.auth.infrastructure.csproj.AssemblyReference.cache
+C:\Users\DIEGOD\Desktop\pruebaTecAuth\prueba.tec.auth.api\pruebas.tec.auth.infrastructure\obj\Debug\net8.0\pruebas.tec.auth.infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DIEGOD\Desktop\pruebaTecAuth\prueba.tec.auth.api\pruebas.tec.auth.infrastructure\obj\Debug\net8.0\pruebas.tec.auth.infrastructure.AssemblyInfoInputs.cache
+C:\Users\DIEGOD\Desktop\pruebaTecAuth\prueba.tec.auth.api\pruebas.tec.auth.infrastructure\obj\Debug\net8.0\pruebas.tec.auth.infrastructure.AssemblyInfo.cs
+C:\Users\DIEGOD\Desktop\pruebaTecAuth\prueba.tec.auth.api\pruebas.tec.auth.infrastructure\obj\Debug\net8.0\pruebas.tec.auth.infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\DIEGOD\Desktop\pruebaTecAuth\prueba.tec.auth.api\pruebas.tec.auth.infrastructure\obj\Debug\net8.0\pruebas.tec.auth.infrastructure.sourcelink.json
+C:\Users\DIEGOD\Desktop\pruebaTecAuth\prueba.tec.auth.api\pruebas.tec.auth.infrastructure\obj\Debug\net8.0\pruebas..F37C20C1.Up2Date
+C:\Users\DIEGOD\Desktop\pruebaTecAuth\prueba.tec.auth.api\pruebas.tec.auth.infrastructure\obj\Debug\net8.0\pruebas.tec.auth.infrastructure.dll
+C:\Users\DIEGOD\Desktop\pruebaTecAuth\prueba.tec.auth.api\pruebas.tec.auth.infrastructure\obj\Debug\net8.0\refint\pruebas.tec.auth.infrastructure.dll
+C:\Users\DIEGOD\Desktop\pruebaTecAuth\prueba.tec.auth.api\pruebas.tec.auth.infrastructure\obj\Debug\net8.0\pruebas.tec.auth.infrastructure.pdb
+C:\Users\DIEGOD\Desktop\pruebaTecAuth\prueba.tec.auth.api\pruebas.tec.auth.infrastructure\obj\Debug\net8.0\ref\pruebas.tec.auth.infrastructure.dll

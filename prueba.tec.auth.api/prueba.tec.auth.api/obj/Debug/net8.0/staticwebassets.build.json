@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "qfbVLbcCzl5RrBqieTUqcOajXx9T0LIcZMCGkH7Pr0E=",
+  "Source": "prueba.tec.auth.api",
+  "BasePath": "_content/prueba.tec.auth.api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

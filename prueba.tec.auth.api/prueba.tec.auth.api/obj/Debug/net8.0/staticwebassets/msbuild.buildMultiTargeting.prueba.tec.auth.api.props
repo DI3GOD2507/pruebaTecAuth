@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\prueba.tec.auth.api.props" />
+</Project>
