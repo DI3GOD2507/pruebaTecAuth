@@ -97,6 +97,9 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 
+app.UseCors("OrigenEspecificos");
+
+app.UseAuthentication();
 app.UseAuthorization();
 
 app.MapControllers();

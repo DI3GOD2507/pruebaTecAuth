@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("pruebas.tec.auth.infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2ea294f943b58becefe7d4af579fa066456d8f7d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a48ec33b7f26044ba1bb70fa5f58c50ab66ebfcd")]
 [assembly: System.Reflection.AssemblyProductAttribute("pruebas.tec.auth.infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("pruebas.tec.auth.infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

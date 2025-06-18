@@ -11,3 +11,16 @@ C:\Users\DIEGOD\Desktop\pruebaTecAuth\prueba.tec.auth.api\prueba.tec.auth.domain
 C:\Users\DIEGOD\Desktop\pruebaTecAuth\prueba.tec.auth.api\prueba.tec.auth.domain\obj\Debug\net8.0\refint\prueba.tec.auth.domain.dll
 C:\Users\DIEGOD\Desktop\pruebaTecAuth\prueba.tec.auth.api\prueba.tec.auth.domain\obj\Debug\net8.0\prueba.tec.auth.domain.pdb
 C:\Users\DIEGOD\Desktop\pruebaTecAuth\prueba.tec.auth.api\prueba.tec.auth.domain\obj\Debug\net8.0\ref\prueba.tec.auth.domain.dll
+C:\Users\User\Desktop\pruebaTecAuth\prueba.tec.auth.api\prueba.tec.auth.domain\bin\Debug\net8.0\prueba.tec.auth.domain.deps.json
+C:\Users\User\Desktop\pruebaTecAuth\prueba.tec.auth.api\prueba.tec.auth.domain\bin\Debug\net8.0\prueba.tec.auth.domain.dll
+C:\Users\User\Desktop\pruebaTecAuth\prueba.tec.auth.api\prueba.tec.auth.domain\bin\Debug\net8.0\prueba.tec.auth.domain.pdb
+C:\Users\User\Desktop\pruebaTecAuth\prueba.tec.auth.api\prueba.tec.auth.domain\obj\Debug\net8.0\prueba.tec.auth.domain.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\pruebaTecAuth\prueba.tec.auth.api\prueba.tec.auth.domain\obj\Debug\net8.0\prueba.tec.auth.domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\pruebaTecAuth\prueba.tec.auth.api\prueba.tec.auth.domain\obj\Debug\net8.0\prueba.tec.auth.domain.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\pruebaTecAuth\prueba.tec.auth.api\prueba.tec.auth.domain\obj\Debug\net8.0\prueba.tec.auth.domain.AssemblyInfo.cs
+C:\Users\User\Desktop\pruebaTecAuth\prueba.tec.auth.api\prueba.tec.auth.domain\obj\Debug\net8.0\prueba.tec.auth.domain.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\pruebaTecAuth\prueba.tec.auth.api\prueba.tec.auth.domain\obj\Debug\net8.0\prueba.tec.auth.domain.sourcelink.json
+C:\Users\User\Desktop\pruebaTecAuth\prueba.tec.auth.api\prueba.tec.auth.domain\obj\Debug\net8.0\prueba.tec.auth.domain.dll
+C:\Users\User\Desktop\pruebaTecAuth\prueba.tec.auth.api\prueba.tec.auth.domain\obj\Debug\net8.0\refint\prueba.tec.auth.domain.dll
+C:\Users\User\Desktop\pruebaTecAuth\prueba.tec.auth.api\prueba.tec.auth.domain\obj\Debug\net8.0\prueba.tec.auth.domain.pdb
+C:\Users\User\Desktop\pruebaTecAuth\prueba.tec.auth.api\prueba.tec.auth.domain\obj\Debug\net8.0\ref\prueba.tec.auth.domain.dll

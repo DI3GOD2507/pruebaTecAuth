@@ -2869,23 +2869,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\DIEGOD\\.nuget\\packages\\": {},
+    "C:\\Users\\User\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DIEGOD\\Desktop\\pruebaTecAuth\\prueba.tec.auth.api\\prueba.tec.auth.domain\\prueba.tec.auth.domain.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\pruebaTecAuth\\prueba.tec.auth.api\\prueba.tec.auth.domain\\prueba.tec.auth.domain.csproj",
       "projectName": "prueba.tec.auth.domain",
-      "projectPath": "C:\\Users\\DIEGOD\\Desktop\\pruebaTecAuth\\prueba.tec.auth.api\\prueba.tec.auth.domain\\prueba.tec.auth.domain.csproj",
-      "packagesPath": "C:\\Users\\DIEGOD\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DIEGOD\\Desktop\\pruebaTecAuth\\prueba.tec.auth.api\\prueba.tec.auth.domain\\obj\\",
+      "projectPath": "C:\\Users\\User\\Desktop\\pruebaTecAuth\\prueba.tec.auth.api\\prueba.tec.auth.domain\\prueba.tec.auth.domain.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\pruebaTecAuth\\prueba.tec.auth.api\\prueba.tec.auth.domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\DIEGOD\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -2912,7 +2912,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.200"
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net8.0": {
@@ -2975,7 +2975,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

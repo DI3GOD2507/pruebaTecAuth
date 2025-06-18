@@ -1,97 +1,97 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\DIEGOD\\Desktop\\pruebaTecAuth\\prueba.tec.auth.api\\",
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\pruebaTecAuth\\prueba.tec.auth.api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F4BA5E07-F291-4BFC-8242-F724677729AC}|prueba.tec.auth.api\\prueba.tec.auth.api.csproj|c:\\users\\diegod\\desktop\\pruebatecauth\\prueba.tec.auth.api\\prueba.tec.auth.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F4BA5E07-F291-4BFC-8242-F724677729AC}|prueba.tec.auth.api\\prueba.tec.auth.api.csproj|c:\\users\\user\\desktop\\pruebatecauth\\prueba.tec.auth.api\\prueba.tec.auth.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F4BA5E07-F291-4BFC-8242-F724677729AC}|prueba.tec.auth.api\\prueba.tec.auth.api.csproj|solutionrelative:prueba.tec.auth.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F4BA5E07-F291-4BFC-8242-F724677729AC}|prueba.tec.auth.api\\prueba.tec.auth.api.csproj|c:\\users\\diegod\\desktop\\pruebatecauth\\prueba.tec.auth.api\\prueba.tec.auth.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F4BA5E07-F291-4BFC-8242-F724677729AC}|prueba.tec.auth.api\\prueba.tec.auth.api.csproj|solutionrelative:prueba.tec.auth.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9309374E-9A73-4D0B-BB53-634F63B9588C}|prueba.tec.auth.domain\\prueba.tec.auth.domain.csproj|c:\\users\\diegod\\desktop\\pruebatecauth\\prueba.tec.auth.api\\prueba.tec.auth.domain\\prueba.tec.auth.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{9309374E-9A73-4D0B-BB53-634F63B9588C}|prueba.tec.auth.domain\\prueba.tec.auth.domain.csproj|solutionrelative:prueba.tec.auth.domain\\prueba.tec.auth.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9309374E-9A73-4D0B-BB53-634F63B9588C}|prueba.tec.auth.domain\\prueba.tec.auth.domain.csproj|c:\\users\\diegod\\desktop\\pruebatecauth\\prueba.tec.auth.api\\prueba.tec.auth.domain\\models\\request\\auth\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9309374E-9A73-4D0B-BB53-634F63B9588C}|prueba.tec.auth.domain\\prueba.tec.auth.domain.csproj|solutionrelative:prueba.tec.auth.domain\\models\\request\\auth\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9309374E-9A73-4D0B-BB53-634F63B9588C}|prueba.tec.auth.domain\\prueba.tec.auth.domain.csproj|c:\\users\\diegod\\desktop\\pruebatecauth\\prueba.tec.auth.api\\prueba.tec.auth.domain\\models\\request\\auth\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9309374E-9A73-4D0B-BB53-634F63B9588C}|prueba.tec.auth.domain\\prueba.tec.auth.domain.csproj|solutionrelative:prueba.tec.auth.domain\\models\\request\\auth\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7497A93-62C5-4F43-8384-104357F1D9A0}|pruebas.tec.auth.application\\pruebas.tec.auth.application.csproj|c:\\users\\diegod\\desktop\\pruebatecauth\\prueba.tec.auth.api\\pruebas.tec.auth.application\\utils\\passwordutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7497A93-62C5-4F43-8384-104357F1D9A0}|pruebas.tec.auth.application\\pruebas.tec.auth.application.csproj|solutionrelative:pruebas.tec.auth.application\\utils\\passwordutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7497A93-62C5-4F43-8384-104357F1D9A0}|pruebas.tec.auth.application\\pruebas.tec.auth.application.csproj|c:\\users\\diegod\\desktop\\pruebatecauth\\prueba.tec.auth.api\\pruebas.tec.auth.application\\utils\\jwtutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7497A93-62C5-4F43-8384-104357F1D9A0}|pruebas.tec.auth.application\\pruebas.tec.auth.application.csproj|solutionrelative:pruebas.tec.auth.application\\utils\\jwtutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F4BA5E07-F291-4BFC-8242-F724677729AC}|prueba.tec.auth.api\\prueba.tec.auth.api.csproj|c:\\users\\diegod\\desktop\\pruebatecauth\\prueba.tec.auth.api\\prueba.tec.auth.api\\controllers\\v1\\auth\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F4BA5E07-F291-4BFC-8242-F724677729AC}|prueba.tec.auth.api\\prueba.tec.auth.api.csproj|solutionrelative:prueba.tec.auth.api\\controllers\\v1\\auth\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7497A93-62C5-4F43-8384-104357F1D9A0}|pruebas.tec.auth.application\\pruebas.tec.auth.application.csproj|c:\\users\\diegod\\desktop\\pruebatecauth\\prueba.tec.auth.api\\pruebas.tec.auth.application\\services\\auth\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7497A93-62C5-4F43-8384-104357F1D9A0}|pruebas.tec.auth.application\\pruebas.tec.auth.application.csproj|solutionrelative:pruebas.tec.auth.application\\services\\auth\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F4BA5E07-F291-4BFC-8242-F724677729AC}|prueba.tec.auth.api\\prueba.tec.auth.api.csproj|c:\\users\\diegod\\desktop\\pruebatecauth\\prueba.tec.auth.api\\prueba.tec.auth.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{F4BA5E07-F291-4BFC-8242-F724677729AC}|prueba.tec.auth.api\\prueba.tec.auth.api.csproj|solutionrelative:prueba.tec.auth.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F4BA5E07-F291-4BFC-8242-F724677729AC}|prueba.tec.auth.api\\prueba.tec.auth.api.csproj|c:\\users\\diegod\\desktop\\pruebatecauth\\prueba.tec.auth.api\\prueba.tec.auth.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{F4BA5E07-F291-4BFC-8242-F724677729AC}|prueba.tec.auth.api\\prueba.tec.auth.api.csproj|c:\\users\\user\\desktop\\pruebatecauth\\prueba.tec.auth.api\\prueba.tec.auth.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{F4BA5E07-F291-4BFC-8242-F724677729AC}|prueba.tec.auth.api\\prueba.tec.auth.api.csproj|solutionrelative:prueba.tec.auth.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9309374E-9A73-4D0B-BB53-634F63B9588C}|prueba.tec.auth.domain\\prueba.tec.auth.domain.csproj|c:\\users\\diegod\\desktop\\pruebatecauth\\prueba.tec.auth.api\\prueba.tec.auth.domain\\entity\\auth\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F4BA5E07-F291-4BFC-8242-F724677729AC}|prueba.tec.auth.api\\prueba.tec.auth.api.csproj|c:\\users\\user\\desktop\\pruebatecauth\\prueba.tec.auth.api\\prueba.tec.auth.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F4BA5E07-F291-4BFC-8242-F724677729AC}|prueba.tec.auth.api\\prueba.tec.auth.api.csproj|solutionrelative:prueba.tec.auth.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BA5E07-F291-4BFC-8242-F724677729AC}|prueba.tec.auth.api\\prueba.tec.auth.api.csproj|c:\\users\\user\\desktop\\pruebatecauth\\prueba.tec.auth.api\\prueba.tec.auth.api\\controllers\\v1\\auth\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4BA5E07-F291-4BFC-8242-F724677729AC}|prueba.tec.auth.api\\prueba.tec.auth.api.csproj|solutionrelative:prueba.tec.auth.api\\controllers\\v1\\auth\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9309374E-9A73-4D0B-BB53-634F63B9588C}|prueba.tec.auth.domain\\prueba.tec.auth.domain.csproj|c:\\users\\user\\desktop\\pruebatecauth\\prueba.tec.auth.api\\prueba.tec.auth.domain\\models\\request\\auth\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9309374E-9A73-4D0B-BB53-634F63B9588C}|prueba.tec.auth.domain\\prueba.tec.auth.domain.csproj|solutionrelative:prueba.tec.auth.domain\\models\\request\\auth\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9309374E-9A73-4D0B-BB53-634F63B9588C}|prueba.tec.auth.domain\\prueba.tec.auth.domain.csproj|c:\\users\\user\\desktop\\pruebatecauth\\prueba.tec.auth.api\\prueba.tec.auth.domain\\models\\request\\auth\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9309374E-9A73-4D0B-BB53-634F63B9588C}|prueba.tec.auth.domain\\prueba.tec.auth.domain.csproj|solutionrelative:prueba.tec.auth.domain\\models\\request\\auth\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7497A93-62C5-4F43-8384-104357F1D9A0}|pruebas.tec.auth.application\\pruebas.tec.auth.application.csproj|c:\\users\\user\\desktop\\pruebatecauth\\prueba.tec.auth.api\\pruebas.tec.auth.application\\services\\auth\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7497A93-62C5-4F43-8384-104357F1D9A0}|pruebas.tec.auth.application\\pruebas.tec.auth.application.csproj|solutionrelative:pruebas.tec.auth.application\\services\\auth\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BA5E07-F291-4BFC-8242-F724677729AC}|prueba.tec.auth.api\\prueba.tec.auth.api.csproj|c:\\users\\user\\desktop\\pruebatecauth\\prueba.tec.auth.api\\prueba.tec.auth.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4BA5E07-F291-4BFC-8242-F724677729AC}|prueba.tec.auth.api\\prueba.tec.auth.api.csproj|solutionrelative:prueba.tec.auth.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9309374E-9A73-4D0B-BB53-634F63B9588C}|prueba.tec.auth.domain\\prueba.tec.auth.domain.csproj|c:\\users\\user\\desktop\\pruebatecauth\\prueba.tec.auth.api\\prueba.tec.auth.domain\\prueba.tec.auth.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9309374E-9A73-4D0B-BB53-634F63B9588C}|prueba.tec.auth.domain\\prueba.tec.auth.domain.csproj|solutionrelative:prueba.tec.auth.domain\\prueba.tec.auth.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7497A93-62C5-4F43-8384-104357F1D9A0}|pruebas.tec.auth.application\\pruebas.tec.auth.application.csproj|c:\\users\\user\\desktop\\pruebatecauth\\prueba.tec.auth.api\\pruebas.tec.auth.application\\utils\\passwordutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7497A93-62C5-4F43-8384-104357F1D9A0}|pruebas.tec.auth.application\\pruebas.tec.auth.application.csproj|solutionrelative:pruebas.tec.auth.application\\utils\\passwordutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7497A93-62C5-4F43-8384-104357F1D9A0}|pruebas.tec.auth.application\\pruebas.tec.auth.application.csproj|c:\\users\\user\\desktop\\pruebatecauth\\prueba.tec.auth.api\\pruebas.tec.auth.application\\utils\\jwtutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7497A93-62C5-4F43-8384-104357F1D9A0}|pruebas.tec.auth.application\\pruebas.tec.auth.application.csproj|solutionrelative:pruebas.tec.auth.application\\utils\\jwtutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9309374E-9A73-4D0B-BB53-634F63B9588C}|prueba.tec.auth.domain\\prueba.tec.auth.domain.csproj|c:\\users\\user\\desktop\\pruebatecauth\\prueba.tec.auth.api\\prueba.tec.auth.domain\\entity\\auth\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9309374E-9A73-4D0B-BB53-634F63B9588C}|prueba.tec.auth.domain\\prueba.tec.auth.domain.csproj|solutionrelative:prueba.tec.auth.domain\\entity\\auth\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F7497A93-62C5-4F43-8384-104357F1D9A0}|pruebas.tec.auth.application\\pruebas.tec.auth.application.csproj|c:\\users\\diegod\\desktop\\pruebatecauth\\prueba.tec.auth.api\\pruebas.tec.auth.application\\ioc\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F7497A93-62C5-4F43-8384-104357F1D9A0}|pruebas.tec.auth.application\\pruebas.tec.auth.application.csproj|c:\\users\\user\\desktop\\pruebatecauth\\prueba.tec.auth.api\\pruebas.tec.auth.application\\ioc\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F7497A93-62C5-4F43-8384-104357F1D9A0}|pruebas.tec.auth.application\\pruebas.tec.auth.application.csproj|solutionrelative:pruebas.tec.auth.application\\ioc\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F7497A93-62C5-4F43-8384-104357F1D9A0}|pruebas.tec.auth.application\\pruebas.tec.auth.application.csproj|c:\\users\\diegod\\desktop\\pruebatecauth\\prueba.tec.auth.api\\pruebas.tec.auth.application\\interfaces\\auth\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F7497A93-62C5-4F43-8384-104357F1D9A0}|pruebas.tec.auth.application\\pruebas.tec.auth.application.csproj|c:\\users\\user\\desktop\\pruebatecauth\\prueba.tec.auth.api\\pruebas.tec.auth.application\\interfaces\\auth\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F7497A93-62C5-4F43-8384-104357F1D9A0}|pruebas.tec.auth.application\\pruebas.tec.auth.application.csproj|solutionrelative:pruebas.tec.auth.application\\interfaces\\auth\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F7497A93-62C5-4F43-8384-104357F1D9A0}|pruebas.tec.auth.application\\pruebas.tec.auth.application.csproj|c:\\users\\diegod\\desktop\\pruebatecauth\\prueba.tec.auth.api\\pruebas.tec.auth.application\\pruebas.tec.auth.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{F7497A93-62C5-4F43-8384-104357F1D9A0}|pruebas.tec.auth.application\\pruebas.tec.auth.application.csproj|c:\\users\\user\\desktop\\pruebatecauth\\prueba.tec.auth.api\\pruebas.tec.auth.application\\pruebas.tec.auth.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{F7497A93-62C5-4F43-8384-104357F1D9A0}|pruebas.tec.auth.application\\pruebas.tec.auth.application.csproj|solutionrelative:pruebas.tec.auth.application\\pruebas.tec.auth.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C9ADDFCD-991D-4C4D-9771-44DC69A0D4DD}|pruebas.tec.auth.infrastructure\\pruebas.tec.auth.infrastructure.csproj|c:\\users\\diegod\\desktop\\pruebatecauth\\prueba.tec.auth.api\\pruebas.tec.auth.infrastructure\\interfaces\\auth\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C9ADDFCD-991D-4C4D-9771-44DC69A0D4DD}|pruebas.tec.auth.infrastructure\\pruebas.tec.auth.infrastructure.csproj|c:\\users\\user\\desktop\\pruebatecauth\\prueba.tec.auth.api\\pruebas.tec.auth.infrastructure\\interfaces\\auth\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C9ADDFCD-991D-4C4D-9771-44DC69A0D4DD}|pruebas.tec.auth.infrastructure\\pruebas.tec.auth.infrastructure.csproj|solutionrelative:pruebas.tec.auth.infrastructure\\interfaces\\auth\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C9ADDFCD-991D-4C4D-9771-44DC69A0D4DD}|pruebas.tec.auth.infrastructure\\pruebas.tec.auth.infrastructure.csproj|c:\\users\\diegod\\desktop\\pruebatecauth\\prueba.tec.auth.api\\pruebas.tec.auth.infrastructure\\ioc\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C9ADDFCD-991D-4C4D-9771-44DC69A0D4DD}|pruebas.tec.auth.infrastructure\\pruebas.tec.auth.infrastructure.csproj|c:\\users\\user\\desktop\\pruebatecauth\\prueba.tec.auth.api\\pruebas.tec.auth.infrastructure\\ioc\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C9ADDFCD-991D-4C4D-9771-44DC69A0D4DD}|pruebas.tec.auth.infrastructure\\pruebas.tec.auth.infrastructure.csproj|solutionrelative:pruebas.tec.auth.infrastructure\\ioc\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C9ADDFCD-991D-4C4D-9771-44DC69A0D4DD}|pruebas.tec.auth.infrastructure\\pruebas.tec.auth.infrastructure.csproj|c:\\users\\diegod\\desktop\\pruebatecauth\\prueba.tec.auth.api\\pruebas.tec.auth.infrastructure\\database\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C9ADDFCD-991D-4C4D-9771-44DC69A0D4DD}|pruebas.tec.auth.infrastructure\\pruebas.tec.auth.infrastructure.csproj|c:\\users\\user\\desktop\\pruebatecauth\\prueba.tec.auth.api\\pruebas.tec.auth.infrastructure\\database\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C9ADDFCD-991D-4C4D-9771-44DC69A0D4DD}|pruebas.tec.auth.infrastructure\\pruebas.tec.auth.infrastructure.csproj|solutionrelative:pruebas.tec.auth.infrastructure\\database\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C9ADDFCD-991D-4C4D-9771-44DC69A0D4DD}|pruebas.tec.auth.infrastructure\\pruebas.tec.auth.infrastructure.csproj|c:\\users\\diegod\\desktop\\pruebatecauth\\prueba.tec.auth.api\\pruebas.tec.auth.infrastructure\\repositories\\auth\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C9ADDFCD-991D-4C4D-9771-44DC69A0D4DD}|pruebas.tec.auth.infrastructure\\pruebas.tec.auth.infrastructure.csproj|c:\\users\\user\\desktop\\pruebatecauth\\prueba.tec.auth.api\\pruebas.tec.auth.infrastructure\\repositories\\auth\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C9ADDFCD-991D-4C4D-9771-44DC69A0D4DD}|pruebas.tec.auth.infrastructure\\pruebas.tec.auth.infrastructure.csproj|solutionrelative:pruebas.tec.auth.infrastructure\\repositories\\auth\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9309374E-9A73-4D0B-BB53-634F63B9588C}|prueba.tec.auth.domain\\prueba.tec.auth.domain.csproj|c:\\users\\diegod\\desktop\\pruebatecauth\\prueba.tec.auth.api\\prueba.tec.auth.domain\\entity\\auth\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9309374E-9A73-4D0B-BB53-634F63B9588C}|prueba.tec.auth.domain\\prueba.tec.auth.domain.csproj|c:\\users\\user\\desktop\\pruebatecauth\\prueba.tec.auth.api\\prueba.tec.auth.domain\\entity\\auth\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9309374E-9A73-4D0B-BB53-634F63B9588C}|prueba.tec.auth.domain\\prueba.tec.auth.domain.csproj|solutionrelative:prueba.tec.auth.domain\\entity\\auth\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9309374E-9A73-4D0B-BB53-634F63B9588C}|prueba.tec.auth.domain\\prueba.tec.auth.domain.csproj|c:\\users\\diegod\\desktop\\pruebatecauth\\prueba.tec.auth.api\\prueba.tec.auth.domain\\entity\\auth\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9309374E-9A73-4D0B-BB53-634F63B9588C}|prueba.tec.auth.domain\\prueba.tec.auth.domain.csproj|c:\\users\\user\\desktop\\pruebatecauth\\prueba.tec.auth.api\\prueba.tec.auth.domain\\entity\\auth\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9309374E-9A73-4D0B-BB53-634F63B9588C}|prueba.tec.auth.domain\\prueba.tec.auth.domain.csproj|solutionrelative:prueba.tec.auth.domain\\entity\\auth\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C9ADDFCD-991D-4C4D-9771-44DC69A0D4DD}|pruebas.tec.auth.infrastructure\\pruebas.tec.auth.infrastructure.csproj|c:\\users\\diegod\\desktop\\pruebatecauth\\prueba.tec.auth.api\\pruebas.tec.auth.infrastructure\\pruebas.tec.auth.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{C9ADDFCD-991D-4C4D-9771-44DC69A0D4DD}|pruebas.tec.auth.infrastructure\\pruebas.tec.auth.infrastructure.csproj|c:\\users\\user\\desktop\\pruebatecauth\\prueba.tec.auth.api\\pruebas.tec.auth.infrastructure\\pruebas.tec.auth.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{C9ADDFCD-991D-4C4D-9771-44DC69A0D4DD}|pruebas.tec.auth.infrastructure\\pruebas.tec.auth.infrastructure.csproj|solutionrelative:pruebas.tec.auth.infrastructure\\pruebas.tec.auth.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F4BA5E07-F291-4BFC-8242-F724677729AC}|prueba.tec.auth.api\\prueba.tec.auth.api.csproj|c:\\users\\diegod\\desktop\\pruebatecauth\\prueba.tec.auth.api\\prueba.tec.auth.api\\prueba.tec.auth.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{F4BA5E07-F291-4BFC-8242-F724677729AC}|prueba.tec.auth.api\\prueba.tec.auth.api.csproj|c:\\users\\user\\desktop\\pruebatecauth\\prueba.tec.auth.api\\prueba.tec.auth.api\\prueba.tec.auth.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{F4BA5E07-F291-4BFC-8242-F724677729AC}|prueba.tec.auth.api\\prueba.tec.auth.api.csproj|solutionrelative:prueba.tec.auth.api\\prueba.tec.auth.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -108,25 +108,24 @@
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "DependencyInjection.cs",
-              "DocumentMoniker": "C:\\Users\\DIEGOD\\Desktop\\pruebaTecAuth\\prueba.tec.auth.api\\pruebas.tec.auth.infrastructure\\IOC\\DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\pruebaTecAuth\\prueba.tec.auth.api\\pruebas.tec.auth.infrastructure\\IOC\\DependencyInjection.cs",
               "RelativeDocumentMoniker": "pruebas.tec.auth.infrastructure\\IOC\\DependencyInjection.cs",
-              "ToolTip": "C:\\Users\\DIEGOD\\Desktop\\pruebaTecAuth\\prueba.tec.auth.api\\pruebas.tec.auth.infrastructure\\IOC\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\pruebaTecAuth\\prueba.tec.auth.api\\pruebas.tec.auth.infrastructure\\IOC\\DependencyInjection.cs",
               "RelativeToolTip": "pruebas.tec.auth.infrastructure\\IOC\\DependencyInjection.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAYwCIAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-18T06:00:39.672Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 1,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\DIEGOD\\Desktop\\pruebaTecAuth\\prueba.tec.auth.api\\prueba.tec.auth.api\\Properties\\launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\pruebaTecAuth\\prueba.tec.auth.api\\prueba.tec.auth.api\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "prueba.tec.auth.api\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\DIEGOD\\Desktop\\pruebaTecAuth\\prueba.tec.auth.api\\prueba.tec.auth.api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\User\\Desktop\\pruebaTecAuth\\prueba.tec.auth.api\\prueba.tec.auth.api\\Properties\\launchSettings.json",
               "RelativeToolTip": "prueba.tec.auth.api\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACoAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-06-18T06:14:18.869Z",
               "IsPinned": true,
@@ -136,76 +135,25 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\DIEGOD\\Desktop\\pruebaTecAuth\\prueba.tec.auth.api\\prueba.tec.auth.api\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\pruebaTecAuth\\prueba.tec.auth.api\\prueba.tec.auth.api\\Program.cs",
               "RelativeDocumentMoniker": "prueba.tec.auth.api\\Program.cs",
-              "ToolTip": "C:\\Users\\DIEGOD\\Desktop\\pruebaTecAuth\\prueba.tec.auth.api\\prueba.tec.auth.api\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\pruebaTecAuth\\prueba.tec.auth.api\\prueba.tec.auth.api\\Program.cs",
               "RelativeToolTip": "prueba.tec.auth.api\\Program.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAswD8AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAowFUAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-18T06:03:22.282Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\DIEGOD\\Desktop\\pruebaTecAuth\\prueba.tec.auth.api\\prueba.tec.auth.api\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "prueba.tec.auth.api\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\DIEGOD\\Desktop\\pruebaTecAuth\\prueba.tec.auth.api\\prueba.tec.auth.api\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "prueba.tec.auth.api\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T06:50:56.259Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\DIEGOD\\Desktop\\pruebaTecAuth\\prueba.tec.auth.api\\prueba.tec.auth.api\\appsettings.json",
-              "RelativeDocumentMoniker": "prueba.tec.auth.api\\appsettings.json",
-              "ToolTip": "C:\\Users\\DIEGOD\\Desktop\\pruebaTecAuth\\prueba.tec.auth.api\\prueba.tec.auth.api\\appsettings.json",
-              "RelativeToolTip": "prueba.tec.auth.api\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-18T06:40:57.367Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "LoginRequest.cs",
-              "DocumentMoniker": "C:\\Users\\DIEGOD\\Desktop\\pruebaTecAuth\\prueba.tec.auth.api\\prueba.tec.auth.domain\\Models\\Request\\Auth\\LoginRequest.cs",
-              "RelativeDocumentMoniker": "prueba.tec.auth.domain\\Models\\Request\\Auth\\LoginRequest.cs",
-              "ToolTip": "C:\\Users\\DIEGOD\\Desktop\\pruebaTecAuth\\prueba.tec.auth.api\\prueba.tec.auth.domain\\Models\\Request\\Auth\\LoginRequest.cs",
-              "RelativeToolTip": "prueba.tec.auth.domain\\Models\\Request\\Auth\\LoginRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T06:38:18.786Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\DIEGOD\\Desktop\\pruebaTecAuth\\prueba.tec.auth.api\\prueba.tec.auth.api\\Controllers\\v1\\Auth\\AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\pruebaTecAuth\\prueba.tec.auth.api\\prueba.tec.auth.api\\Controllers\\v1\\Auth\\AuthController.cs",
               "RelativeDocumentMoniker": "prueba.tec.auth.api\\Controllers\\v1\\Auth\\AuthController.cs",
-              "ToolTip": "C:\\Users\\DIEGOD\\Desktop\\pruebaTecAuth\\prueba.tec.auth.api\\prueba.tec.auth.api\\Controllers\\v1\\Auth\\AuthController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\pruebaTecAuth\\prueba.tec.auth.api\\prueba.tec.auth.api\\Controllers\\v1\\Auth\\AuthController.cs",
               "RelativeToolTip": "prueba.tec.auth.api\\Controllers\\v1\\Auth\\AuthController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAswCgAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAkwBUAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-18T06:30:25.507Z",
               "EditorCaption": ""
@@ -213,62 +161,23 @@
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "JWTUtils.cs",
-              "DocumentMoniker": "C:\\Users\\DIEGOD\\Desktop\\pruebaTecAuth\\prueba.tec.auth.api\\pruebas.tec.auth.application\\Utils\\JWTUtils.cs",
-              "RelativeDocumentMoniker": "pruebas.tec.auth.application\\Utils\\JWTUtils.cs",
-              "ToolTip": "C:\\Users\\DIEGOD\\Desktop\\pruebaTecAuth\\prueba.tec.auth.api\\pruebas.tec.auth.application\\Utils\\JWTUtils.cs",
-              "RelativeToolTip": "pruebas.tec.auth.application\\Utils\\JWTUtils.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAswCUAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T06:26:29.964Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "PasswordUtils.cs",
-              "DocumentMoniker": "C:\\Users\\DIEGOD\\Desktop\\pruebaTecAuth\\prueba.tec.auth.api\\pruebas.tec.auth.application\\Utils\\PasswordUtils.cs",
-              "RelativeDocumentMoniker": "pruebas.tec.auth.application\\Utils\\PasswordUtils.cs",
-              "ToolTip": "C:\\Users\\DIEGOD\\Desktop\\pruebaTecAuth\\prueba.tec.auth.api\\pruebas.tec.auth.application\\Utils\\PasswordUtils.cs",
-              "RelativeToolTip": "pruebas.tec.auth.application\\Utils\\PasswordUtils.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T06:25:06.692Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "prueba.tec.auth.domain",
-              "DocumentMoniker": "C:\\Users\\DIEGOD\\Desktop\\pruebaTecAuth\\prueba.tec.auth.api\\prueba.tec.auth.domain\\prueba.tec.auth.domain.csproj",
-              "RelativeDocumentMoniker": "prueba.tec.auth.domain\\prueba.tec.auth.domain.csproj",
-              "ToolTip": "C:\\Users\\DIEGOD\\Desktop\\pruebaTecAuth\\prueba.tec.auth.api\\prueba.tec.auth.domain\\prueba.tec.auth.domain.csproj",
-              "RelativeToolTip": "prueba.tec.auth.domain\\prueba.tec.auth.domain.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-18T06:35:23.513Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "UserService.cs",
-              "DocumentMoniker": "C:\\Users\\DIEGOD\\Desktop\\pruebaTecAuth\\prueba.tec.auth.api\\pruebas.tec.auth.application\\Services\\Auth\\UserService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\pruebaTecAuth\\prueba.tec.auth.api\\pruebas.tec.auth.application\\Services\\Auth\\UserService.cs",
               "RelativeDocumentMoniker": "pruebas.tec.auth.application\\Services\\Auth\\UserService.cs",
-              "ToolTip": "C:\\Users\\DIEGOD\\Desktop\\pruebaTecAuth\\prueba.tec.auth.api\\pruebas.tec.auth.application\\Services\\Auth\\UserService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\pruebaTecAuth\\prueba.tec.auth.api\\pruebas.tec.auth.application\\Services\\Auth\\UserService.cs",
               "RelativeToolTip": "pruebas.tec.auth.application\\Services\\Auth\\UserService.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAjwBwAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAwDQAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-18T06:23:54.095Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "RegisterRequest.cs",
-              "DocumentMoniker": "C:\\Users\\DIEGOD\\Desktop\\pruebaTecAuth\\prueba.tec.auth.api\\prueba.tec.auth.domain\\Models\\Request\\Auth\\RegisterRequest.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\pruebaTecAuth\\prueba.tec.auth.api\\prueba.tec.auth.domain\\Models\\Request\\Auth\\RegisterRequest.cs",
               "RelativeDocumentMoniker": "prueba.tec.auth.domain\\Models\\Request\\Auth\\RegisterRequest.cs",
-              "ToolTip": "C:\\Users\\DIEGOD\\Desktop\\pruebaTecAuth\\prueba.tec.auth.api\\prueba.tec.auth.domain\\Models\\Request\\Auth\\RegisterRequest.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\pruebaTecAuth\\prueba.tec.auth.api\\prueba.tec.auth.domain\\Models\\Request\\Auth\\RegisterRequest.cs",
               "RelativeToolTip": "prueba.tec.auth.domain\\Models\\Request\\Auth\\RegisterRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -277,146 +186,210 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\pruebaTecAuth\\prueba.tec.auth.api\\prueba.tec.auth.api\\appsettings.json",
+              "RelativeDocumentMoniker": "prueba.tec.auth.api\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\Desktop\\pruebaTecAuth\\prueba.tec.auth.api\\prueba.tec.auth.api\\appsettings.json",
+              "RelativeToolTip": "prueba.tec.auth.api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-18T06:40:57.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\pruebaTecAuth\\prueba.tec.auth.api\\prueba.tec.auth.domain\\Models\\Request\\Auth\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "prueba.tec.auth.domain\\Models\\Request\\Auth\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\pruebaTecAuth\\prueba.tec.auth.api\\prueba.tec.auth.domain\\Models\\Request\\Auth\\LoginRequest.cs",
+              "RelativeToolTip": "prueba.tec.auth.domain\\Models\\Request\\Auth\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T06:38:18.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\pruebaTecAuth\\prueba.tec.auth.api\\prueba.tec.auth.api\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "prueba.tec.auth.api\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\pruebaTecAuth\\prueba.tec.auth.api\\prueba.tec.auth.api\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "prueba.tec.auth.api\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T06:50:56.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "JWTUtils.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\pruebaTecAuth\\prueba.tec.auth.api\\pruebas.tec.auth.application\\Utils\\JWTUtils.cs",
+              "RelativeDocumentMoniker": "pruebas.tec.auth.application\\Utils\\JWTUtils.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\pruebaTecAuth\\prueba.tec.auth.api\\pruebas.tec.auth.application\\Utils\\JWTUtils.cs",
+              "RelativeToolTip": "pruebas.tec.auth.application\\Utils\\JWTUtils.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAswCUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T06:26:29.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PasswordUtils.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\pruebaTecAuth\\prueba.tec.auth.api\\pruebas.tec.auth.application\\Utils\\PasswordUtils.cs",
+              "RelativeDocumentMoniker": "pruebas.tec.auth.application\\Utils\\PasswordUtils.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\pruebaTecAuth\\prueba.tec.auth.api\\pruebas.tec.auth.application\\Utils\\PasswordUtils.cs",
+              "RelativeToolTip": "pruebas.tec.auth.application\\Utils\\PasswordUtils.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T06:25:06.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "prueba.tec.auth.domain.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\pruebaTecAuth\\prueba.tec.auth.api\\prueba.tec.auth.domain\\prueba.tec.auth.domain.csproj",
+              "RelativeDocumentMoniker": "prueba.tec.auth.domain\\prueba.tec.auth.domain.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\pruebaTecAuth\\prueba.tec.auth.api\\prueba.tec.auth.domain\\prueba.tec.auth.domain.csproj",
+              "RelativeToolTip": "prueba.tec.auth.domain\\prueba.tec.auth.domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-18T06:35:23.513Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 12,
               "Title": "DependencyInjection.cs",
-              "DocumentMoniker": "C:\\Users\\DIEGOD\\Desktop\\pruebaTecAuth\\prueba.tec.auth.api\\pruebas.tec.auth.application\\IOC\\DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\pruebaTecAuth\\prueba.tec.auth.api\\pruebas.tec.auth.application\\IOC\\DependencyInjection.cs",
               "RelativeDocumentMoniker": "pruebas.tec.auth.application\\IOC\\DependencyInjection.cs",
-              "ToolTip": "C:\\Users\\DIEGOD\\Desktop\\pruebaTecAuth\\prueba.tec.auth.api\\pruebas.tec.auth.application\\IOC\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\pruebaTecAuth\\prueba.tec.auth.api\\pruebas.tec.auth.application\\IOC\\DependencyInjection.cs",
               "RelativeToolTip": "pruebas.tec.auth.application\\IOC\\DependencyInjection.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T06:27:59.517Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-18T06:27:59.517Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\DIEGOD\\Desktop\\pruebaTecAuth\\prueba.tec.auth.api\\prueba.tec.auth.domain\\Entity\\Auth\\User.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\pruebaTecAuth\\prueba.tec.auth.api\\prueba.tec.auth.domain\\Entity\\Auth\\User.cs",
               "RelativeDocumentMoniker": "prueba.tec.auth.domain\\Entity\\Auth\\User.cs",
-              "ToolTip": "C:\\Users\\DIEGOD\\Desktop\\pruebaTecAuth\\prueba.tec.auth.api\\prueba.tec.auth.domain\\Entity\\Auth\\User.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\pruebaTecAuth\\prueba.tec.auth.api\\prueba.tec.auth.domain\\Entity\\Auth\\User.cs",
               "RelativeToolTip": "prueba.tec.auth.domain\\Entity\\Auth\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T06:09:07.869Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-18T06:09:07.869Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "IUserService.cs",
-              "DocumentMoniker": "C:\\Users\\DIEGOD\\Desktop\\pruebaTecAuth\\prueba.tec.auth.api\\pruebas.tec.auth.application\\Interfaces\\Auth\\IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\pruebaTecAuth\\prueba.tec.auth.api\\pruebas.tec.auth.application\\Interfaces\\Auth\\IUserService.cs",
               "RelativeDocumentMoniker": "pruebas.tec.auth.application\\Interfaces\\Auth\\IUserService.cs",
-              "ToolTip": "C:\\Users\\DIEGOD\\Desktop\\pruebaTecAuth\\prueba.tec.auth.api\\pruebas.tec.auth.application\\Interfaces\\Auth\\IUserService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\pruebaTecAuth\\prueba.tec.auth.api\\pruebas.tec.auth.application\\Interfaces\\Auth\\IUserService.cs",
               "RelativeToolTip": "pruebas.tec.auth.application\\Interfaces\\Auth\\IUserService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T06:23:29.37Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-18T06:23:29.37Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "pruebas.tec.auth.application",
-              "DocumentMoniker": "C:\\Users\\DIEGOD\\Desktop\\pruebaTecAuth\\prueba.tec.auth.api\\pruebas.tec.auth.application\\pruebas.tec.auth.application.csproj",
+              "Title": "pruebas.tec.auth.application.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\pruebaTecAuth\\prueba.tec.auth.api\\pruebas.tec.auth.application\\pruebas.tec.auth.application.csproj",
               "RelativeDocumentMoniker": "pruebas.tec.auth.application\\pruebas.tec.auth.application.csproj",
-              "ToolTip": "C:\\Users\\DIEGOD\\Desktop\\pruebaTecAuth\\prueba.tec.auth.api\\pruebas.tec.auth.application\\pruebas.tec.auth.application.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\pruebaTecAuth\\prueba.tec.auth.api\\pruebas.tec.auth.application\\pruebas.tec.auth.application.csproj",
               "RelativeToolTip": "pruebas.tec.auth.application\\pruebas.tec.auth.application.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-18T06:21:53.617Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-18T06:21:53.617Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
               "Title": "Role.cs",
-              "DocumentMoniker": "C:\\Users\\DIEGOD\\Desktop\\pruebaTecAuth\\prueba.tec.auth.api\\prueba.tec.auth.domain\\Entity\\Auth\\Role.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\pruebaTecAuth\\prueba.tec.auth.api\\prueba.tec.auth.domain\\Entity\\Auth\\Role.cs",
               "RelativeDocumentMoniker": "prueba.tec.auth.domain\\Entity\\Auth\\Role.cs",
-              "ToolTip": "C:\\Users\\DIEGOD\\Desktop\\pruebaTecAuth\\prueba.tec.auth.api\\prueba.tec.auth.domain\\Entity\\Auth\\Role.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\pruebaTecAuth\\prueba.tec.auth.api\\prueba.tec.auth.domain\\Entity\\Auth\\Role.cs",
               "RelativeToolTip": "prueba.tec.auth.domain\\Entity\\Auth\\Role.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T06:09:06.625Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-18T06:09:06.625Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 20,
               "Title": "UserRole.cs",
-              "DocumentMoniker": "C:\\Users\\DIEGOD\\Desktop\\pruebaTecAuth\\prueba.tec.auth.api\\prueba.tec.auth.domain\\Entity\\Auth\\UserRole.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\pruebaTecAuth\\prueba.tec.auth.api\\prueba.tec.auth.domain\\Entity\\Auth\\UserRole.cs",
               "RelativeDocumentMoniker": "prueba.tec.auth.domain\\Entity\\Auth\\UserRole.cs",
-              "ToolTip": "C:\\Users\\DIEGOD\\Desktop\\pruebaTecAuth\\prueba.tec.auth.api\\prueba.tec.auth.domain\\Entity\\Auth\\UserRole.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\pruebaTecAuth\\prueba.tec.auth.api\\prueba.tec.auth.domain\\Entity\\Auth\\UserRole.cs",
               "RelativeToolTip": "prueba.tec.auth.domain\\Entity\\Auth\\UserRole.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T06:08:41.752Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-18T06:08:41.752Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
               "Title": "DBContext.cs",
-              "DocumentMoniker": "C:\\Users\\DIEGOD\\Desktop\\pruebaTecAuth\\prueba.tec.auth.api\\pruebas.tec.auth.infrastructure\\Database\\DBContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\pruebaTecAuth\\prueba.tec.auth.api\\pruebas.tec.auth.infrastructure\\Database\\DBContext.cs",
               "RelativeDocumentMoniker": "pruebas.tec.auth.infrastructure\\Database\\DBContext.cs",
-              "ToolTip": "C:\\Users\\DIEGOD\\Desktop\\pruebaTecAuth\\prueba.tec.auth.api\\pruebas.tec.auth.infrastructure\\Database\\DBContext.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\pruebaTecAuth\\prueba.tec.auth.api\\pruebas.tec.auth.infrastructure\\Database\\DBContext.cs",
               "RelativeToolTip": "pruebas.tec.auth.infrastructure\\Database\\DBContext.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T06:08:02.375Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-18T06:08:02.375Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "IUserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\DIEGOD\\Desktop\\pruebaTecAuth\\prueba.tec.auth.api\\pruebas.tec.auth.infrastructure\\Interfaces\\Auth\\IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\pruebaTecAuth\\prueba.tec.auth.api\\pruebas.tec.auth.infrastructure\\Interfaces\\Auth\\IUserRepository.cs",
               "RelativeDocumentMoniker": "pruebas.tec.auth.infrastructure\\Interfaces\\Auth\\IUserRepository.cs",
-              "ToolTip": "C:\\Users\\DIEGOD\\Desktop\\pruebaTecAuth\\prueba.tec.auth.api\\pruebas.tec.auth.infrastructure\\Interfaces\\Auth\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\pruebaTecAuth\\prueba.tec.auth.api\\pruebas.tec.auth.infrastructure\\Interfaces\\Auth\\IUserRepository.cs",
               "RelativeToolTip": "pruebas.tec.auth.infrastructure\\Interfaces\\Auth\\IUserRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T06:02:29.935Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-18T06:02:29.935Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 18,
               "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\DIEGOD\\Desktop\\pruebaTecAuth\\prueba.tec.auth.api\\pruebas.tec.auth.infrastructure\\Repositories\\Auth\\UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\pruebaTecAuth\\prueba.tec.auth.api\\pruebas.tec.auth.infrastructure\\Repositories\\Auth\\UserRepository.cs",
               "RelativeDocumentMoniker": "pruebas.tec.auth.infrastructure\\Repositories\\Auth\\UserRepository.cs",
-              "ToolTip": "C:\\Users\\DIEGOD\\Desktop\\pruebaTecAuth\\prueba.tec.auth.api\\pruebas.tec.auth.infrastructure\\Repositories\\Auth\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\pruebaTecAuth\\prueba.tec.auth.api\\pruebas.tec.auth.infrastructure\\Repositories\\Auth\\UserRepository.cs",
               "RelativeToolTip": "pruebas.tec.auth.infrastructure\\Repositories\\Auth\\UserRepository.cs",
               "ViewState": "AgIAABkAAAAAAAAAAAArwB8AAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T06:01:57.889Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-18T06:01:57.889Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 21,
-              "Title": "pruebas.tec.auth.infrastructure",
-              "DocumentMoniker": "C:\\Users\\DIEGOD\\Desktop\\pruebaTecAuth\\prueba.tec.auth.api\\pruebas.tec.auth.infrastructure\\pruebas.tec.auth.infrastructure.csproj",
+              "Title": "pruebas.tec.auth.infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\pruebaTecAuth\\prueba.tec.auth.api\\pruebas.tec.auth.infrastructure\\pruebas.tec.auth.infrastructure.csproj",
               "RelativeDocumentMoniker": "pruebas.tec.auth.infrastructure\\pruebas.tec.auth.infrastructure.csproj",
-              "ToolTip": "C:\\Users\\DIEGOD\\Desktop\\pruebaTecAuth\\prueba.tec.auth.api\\pruebas.tec.auth.infrastructure\\pruebas.tec.auth.infrastructure.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\pruebaTecAuth\\prueba.tec.auth.api\\pruebas.tec.auth.infrastructure\\pruebas.tec.auth.infrastructure.csproj",
               "RelativeToolTip": "pruebas.tec.auth.infrastructure\\pruebas.tec.auth.infrastructure.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-18T06:00:04.8Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-18T06:00:04.8Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 22,
-              "Title": "prueba.tec.auth.api",
-              "DocumentMoniker": "C:\\Users\\DIEGOD\\Desktop\\pruebaTecAuth\\prueba.tec.auth.api\\prueba.tec.auth.api\\prueba.tec.auth.api.csproj",
+              "Title": "prueba.tec.auth.api.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\pruebaTecAuth\\prueba.tec.auth.api\\prueba.tec.auth.api\\prueba.tec.auth.api.csproj",
               "RelativeDocumentMoniker": "prueba.tec.auth.api\\prueba.tec.auth.api.csproj",
-              "ToolTip": "C:\\Users\\DIEGOD\\Desktop\\pruebaTecAuth\\prueba.tec.auth.api\\prueba.tec.auth.api\\prueba.tec.auth.api.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\pruebaTecAuth\\prueba.tec.auth.api\\prueba.tec.auth.api\\prueba.tec.auth.api.csproj",
               "RelativeToolTip": "prueba.tec.auth.api\\prueba.tec.auth.api.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-18T05:56:55.148Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-18T05:56:55.148Z"
             }
           ]
         }
